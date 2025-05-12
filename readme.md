@@ -59,7 +59,7 @@ Me chamo Leonardo Marciano Scheitz, tenho 18 anos e sou natural de Santa Catarin
 />
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <p>
   <img 
