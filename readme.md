@@ -59,17 +59,16 @@ Me chamo Leonardo Marciano Scheitz, tenho 18 anos e sou natural de Santa Catarin
 />
 <br/>
 
-### 📅 Contribuições
+### 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
-    alt="GitHub Contributions" 
+    alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=Leonardoscheitz&bg_color=2b2b2b&color=00f1f1&line=00f1f1&point=ffffff&area=true&hide_border=true" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Leonardoscheitz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-</p>
-
 
 <img 
       align="left" 
