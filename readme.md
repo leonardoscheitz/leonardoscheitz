@@ -1,80 +1,81 @@
-# 👩🏻‍💻 Leonardo Scheitz
+<!--
+  GitHub Profile README · Leonardo Scheitz
+  Repository: github.com/leonardoscheitz/leonardoscheitz
+  Rename this file to README.md when adding it to the repository.
+-->
 
-**`Desenvolvedor Júnior Back-End`**
+<p align="left"><sub>SOFTWARE ENGINEERING / BACKEND / AUTOMATION</sub></p>
 
-Me chamo Leonardo Marciano Scheitz, tenho 18 anos e sou natural de Santa Catarina. Atualmente, estou cursando o Ensino Médio. Paralelamente, estou fazendo o curso de Java Back-End pelo Entra21 (edição 2025) e também curso Gestão Administrativa pela ATIVA.
+# Leonardo Scheitz
 
-<p align="left">
-    <a href="https://github.com/Leonardoscheitz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Leonardoscheitz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Leonardoscheitz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Leonardoscheitz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+**Software Developer · Backend Engineering & Automation**
+Building practical software, automating repetitive work, and turning complex problems into reliable tools.
+
+Based in Santa Catarina, Brazil. Studying Software Engineering at UNIASSELVI and working with Python automation, business intelligence, and software development.
+
+[**Portfolio**](https://leonardoscheitz.github.io/myportfolio/) · [**LinkedIn**](https://www.linkedin.com/in/leonardo-scheitz-680756354/) · [**Morven Systems**](https://morvensystems.com) · [**Email**](mailto:leonardoscheitz@gmail.com)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### About
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
+My work sits at the intersection of **software development, automation, and data**. I build Python-based workflows that reduce repetitive tasks, improve reporting processes, and connect tools used in everyday operations.
 
-### 📊 Estatísticas
+Outside of work, I develop independent products under **Morven Systems** and explore backend architecture, developer tooling, and open-source software. I care about solutions that are useful, maintainable, and simple to operate.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Leonardoscheitz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+**Currently focused on:** backend development, Python tooling, TypeScript, system integration, testing, and shipping my own projects.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoscheitz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### Selected work
 
-</p>
+| Project                                                                       | Description                                                                                                                  | Status            |
+| :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------- |
+| **[Morven CAST](https://telar.morvensystems.com)**                       | Browser-based screen-sharing project exploring real-time communication, video quality, and a streamlined viewing experience. | In development    |
+| **GLYPH**                                                               | Lightweight developer tool for diagnosing and repairing Unicode / text-encoding problems.                                    | In development    |
+| **[ContactManager](https://github.com/leonardoscheitz/ContactManager)**  | Java application for creating, listing, searching, and removing contacts.                                                    | Public repository |
+| **[Personal Portfolio](https://github.com/leonardoscheitz/myportfolio)** | Responsive personal portfolio built with HTML and CSS.                                                                       | Public repository |
+
+**Morven Systems** — my independent software-development brand and a home for experimental tools, applications, and products.
+
+### Work & experience
+
+**Academic operations · Python Automation & BI**
+I work on operational automations and reporting workflows involving Python, browser automation, spreadsheets, and Power BI. My focus is to make recurring processes more consistent, less manual, and easier to monitor.
+
+**Learning & education**
+Software Engineering — UNIASSELVI
+Java Back-End — Entra21 (2025)
+
+### Technology stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=postgresql&logoColor=white)
+
+**Development & automation**
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat-square&logo=playwright&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-20232A?style=flat-square&logo=powerbi&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-20232A?style=flat-square&logo=powerautomate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-20232A?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Engineering interests
+
+- **Backend systems:** APIs, integrations, service design, and reliable application logic.
+- **Automation:** Python workflows, browser automation, data collection, and reporting.
+- **Developer tooling:** small utilities that solve specific technical problems.
+- **Product development:** taking an idea from prototype to something people can actually use.
+
+### Contact
+
+I'm open to connecting with developers, discussing projects, and exploring junior software-development opportunities.
+
+**[LinkedIn](https://www.linkedin.com/in/leonardo-scheitz-680756354/)** · **[GitHub](https://github.com/leonardoscheitz)** · **[Portfolio](https://leonardoscheitz.github.io/myportfolio/)** · **[Email](mailto:leonardoscheitz@gmail.com)**
+
+---
+
+<sub>Built with curiosity, discipline, and an eye for the details.</sub>
