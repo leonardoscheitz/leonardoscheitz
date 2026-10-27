@@ -1,168 +1,99 @@
 
-# Leonardo Scheitz
+<!-- GitHub Profile README -->
 
-**Software Developer · Python Automation · Backend Development**
+<div align="center">
 
-Software Engineering student and developer based in Santa Catarina, Brazil. My work focuses on Python automation, backend development, browser-based workflows, and data processing.
+  <sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; AUTOMATION</sub>
 
-At UNIASSELVI, I work with academic operations and develop automations that support recurring reports, browser interactions, and operational data workflows. My day-to-day experience involves Python, Playwright, Power BI, process validation, and troubleshooting.
+  <h1>Leonardo Scheitz</h1>
 
-Outside of work, I study backend engineering, build personal projects, and explore developer tooling. I am particularly interested in understanding how systems behave, investigating failures, and building software that solves practical problems.
+  <p>
+    Software Engineering student and developer based in Santa Catarina, Brazil.<br>
+    I build practical software, automate repetitive processes, and enjoy understanding how things work under the hood.
+  </p>
 
-**Contact:** [Email](mailto:leonardoscheitz@gmail.com) · [GitHub](https://github.com/leonardoscheitz) · [Portfolio repository](https://github.com/leonardoscheitz/myportfolio)
+  <p>
+    <a href="https://www.linkedin.com/in/leonardo-scheitz-680756354/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/leonardoscheitz/myportfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=githubpages&logoColor=white"></a>
+    <a href="mailto:leonardoscheitz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white"></a>
+  </p>
 
----
-
-## Engineering work
-
-My experience spans application development, browser automation, reporting workflows, and data analysis.
-
-Some of the systems I work on are internal and cannot be published. The following areas describe the technical work without exposing proprietary code or operational data.
-
-| Area | Work | Technologies |
-|---|---|---|
-| Browser automation | Automating repetitive browser interactions, data collection, and operational workflows | Python, Playwright, Selenium |
-| Report processing | Working with recurring report generation, scheduled execution, file handling, and error investigation | Python, PowerShell |
-| Business intelligence | Supporting data analysis, dashboard development, and operational reporting | Power BI, DAX |
-| Workflow automation | Exploring and implementing automated processes across business applications | Power Automate, Python |
-| Backend development | Developing application logic, studying APIs, and building foundational backend projects | Java, Python, JavaScript |
-
-My approach is centered on making workflows easier to maintain, understanding why failures happen, and improving the reliability of everyday processes.
+</div>
 
 ---
 
-## Highlights
+### About me
 
-Selected public projects and development work.
+I work across **Python automation, backend development, and data workflows**. In my day-to-day work, I create and improve processes involving browser automation, recurring reports, and operational data.
 
-| Project | Description | Stack |
-|---|---|---|
-| [ContactManager](https://github.com/leonardoscheitz/ContactManager) | Java application for managing contacts, including registration, listing, searching, and removal | Java, Maven |
-| GLYPH — in development | Developer tool focused on investigating Unicode, character encoding problems, and text corruption | Unicode, Text Encoding |
-| Internal Automation Work | Python-based automation and recurring reporting workflows developed for academic operations | Python, Playwright, Power BI |
+Beyond that, I study software engineering and build projects to deepen my understanding of code, architecture, and developer tools.
 
-### ContactManager
+I care about **readable code, useful features, and solving the actual problem** — not just making something look impressive.
 
-**Repository:** [leonardoscheitz/ContactManager](https://github.com/leonardoscheitz/ContactManager)
+### Selected projects
 
-A Java application developed to practice object-oriented programming, application structure, and basic data management.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GLYPH <sub>· In development</sub></h3>
+      <p>A developer tool focused on <strong>Unicode and text encoding</strong>: diagnosing broken characters, identifying potential causes, and making text-handling issues easier to understand and fix.</p>
+      <p><code>Unicode</code> <code>Encoding</code> <code>Developer tooling</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/leonardoscheitz/ContactManager">ContactManager</a></h3>
+      <p>A command-line contact management application built with Java and Maven, covering the fundamentals of data handling and CRUD operations.</p>
+      <p><code>Java</code> <code>Maven</code> <code>CRUD</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/leonardoscheitz/myportfolio">Personal Portfolio</a></h3>
+      <p>A responsive portfolio website built to present my work, technical skills, and development journey.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Web</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Automation & reporting <sub>· Professional work</sub></h3>
+      <p>Internal workflows that reduce repetitive tasks and support reporting and data operations. The underlying systems and code are not public.</p>
+      <p><code>Python</code> <code>Playwright</code> <code>Power BI</code></p>
+    </td>
+  </tr>
+</table>
 
-The project provides a command-line interface for managing contacts.
-
-Core functionality:
-
-- Register new contacts
-- List existing contacts
-- Search stored contacts
-- Remove contacts
-- Organize and maintain contact information
-
-Built using **Java and Maven**.
-
-### GLYPH
-
-**Status: In development**
-
-GLYPH is a developer tooling project focused on Unicode and character encoding problems.
-
-Its purpose is to explore methods for diagnosing malformed text, identifying possible encoding mismatches, and helping developers understand character corruption.
-
-The project's scope includes:
-
-- Unicode and encoding diagnostics
-- Detection of suspicious or malformed text
-- Investigation of common character conversion problems
-- Tools for understanding and correcting encoding issues
-
-The project is currently under development and does not yet have a public release listed here.
-
----
-
-## Stack
-
-Technologies I use professionally, have worked with in projects, or am actively studying.
+### Technical stack
 
 **Languages**
 
-Python · Java · JavaScript · TypeScript · HTML · CSS
+![Python](https://img.shields.io/badge/Python-262626?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-262626?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-262626?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-262626?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-262626?style=flat-square&logo=css&logoColor=white)
 
-**Backend and development**
+**Tools & workflow**
 
-Java · Maven · Node.js · API Development
+![Git](https://img.shields.io/badge/Git-262626?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-262626?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-262626?style=flat-square&logo=nodedotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-262626?style=flat-square&logo=playwright&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-262626?style=flat-square&logo=powerbi&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-262626?style=flat-square&logo=powerautomate&logoColor=white)
 
-**Automation and scripting**
+### What I'm working toward
 
-Playwright · Selenium · Python Scripting · PowerShell · Power Automate
+- **Backend engineering** — APIs, application logic, integrations, and maintainable systems.
+- **Python automation** — reliable workflows with better validation, monitoring, and error handling.
+- **Developer tools** — utilities that make debugging and day-to-day development easier.
 
-**Data and analytics**
+### Background
 
-Power BI · DAX · Data Processing · Reporting Automation
-
-**Tools and platforms**
-
-Git · GitHub · Visual Studio Code · GitHub Actions
-
----
-
-## Background
-
-### Professional experience
-
-**UNIASSELVI — Academic Operations**
-
-Administrative Assistant · Automation and Data Workflows
-
-I support academic operations while working on technical solutions involving automation, reporting, and process improvement.
-
-My activities include developing Python scripts, investigating execution failures, working with scheduled reports, and supporting Power BI reporting workflows.
-
-### Education
-
-**Software Engineering**
-
-UNIASSELVI — Undergraduate studies in progress.
-
-**Java Back-End Development**
-
-Entra21 — 2025.
-
-Focused on building a foundation in Java programming, backend concepts, and software development.
-
-### Additional learning
-
-I continue developing my skills through personal projects, practical experimentation, and independent study.
-
-My areas of interest include backend architecture, automation engineering, debugging, developer tools, and software quality.
+- **Software Engineering** — UNIASSELVI, currently studying.
+- **Java Back-End** — Entra21, 2025.
+- **Professional experience** — operational automations and reporting workflows involving Python and Power BI.
 
 ---
 
-## Current focus
-
-**Backend engineering**
-
-Strengthening my knowledge of application architecture, API design, backend services, and maintainable code.
-
-**Automation engineering**
-
-Improving the structure, reliability, validation, and error handling of automated processes.
-
-**Developer tooling**
-
-Exploring utilities that help developers investigate problems and work more effectively, including GLYPH.
-
-**Open source**
-
-Learning through publicly available software, studying existing implementations, and building projects that can eventually be shared and improved collaboratively.
-
----
-
-## Contact
-
-I am interested in software development opportunities, particularly in backend development, Python automation, and junior engineering positions.
-
-**Leonardo Scheitz**  
-Santa Catarina, Brazil
-
-Email: leonardoscheitz@gmail.com  
-GitHub: [github.com/leonardoscheitz](https://github.com/leonardoscheitz)  
-Portfolio: [Personal Portfolio](https://github.com/leonardoscheitz/myportfolio)
+<div align="center">
+  <sub>Interested in junior software development opportunities and collaboration on meaningful projects.</sub><br>
+  <sub><a href="mailto:leonardoscheitz@gmail.com">Get in touch</a> &nbsp;·&nbsp; <a href="https://github.com/leonardoscheitz?tab=repositories">Explore repositories</a></sub>
+</div>
