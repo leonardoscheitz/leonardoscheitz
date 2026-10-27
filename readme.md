@@ -1,81 +1,99 @@
-<!--
-  GitHub Profile README · Leonardo Scheitz
-  Repository: github.com/leonardoscheitz/leonardoscheitz
-  Rename this file to README.md when adding it to the repository.
--->
 
-<p align="left"><sub>SOFTWARE ENGINEERING / BACKEND / AUTOMATION</sub></p>
+<!-- GitHub Profile README -->
 
-# Leonardo Scheitz
+<div align="center">
 
-**Software Developer · Backend Engineering & Automation**
-Building practical software, automating repetitive work, and turning complex problems into reliable tools.
+  <sub>SOFTWARE ENGINEERING &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; AUTOMATION</sub>
 
-Based in Santa Catarina, Brazil. Studying Software Engineering at UNIASSELVI and working with Python automation, business intelligence, and software development.
+  <h1>Leonardo Scheitz</h1>
 
-[**Portfolio**](https://leonardoscheitz.github.io/myportfolio/) · [**LinkedIn**](https://www.linkedin.com/in/leonardo-scheitz-680756354/) · [**Morven Systems**](https://morvensystems.com) · [**Email**](mailto:leonardoscheitz@gmail.com)
+  <p>
+    Software Engineering student and developer based in Santa Catarina, Brazil.<br>
+    I build practical software, automate repetitive processes, and enjoy understanding how things work under the hood.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/leonardo-scheitz-680756354/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/leonardoscheitz/myportfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-171717?style=flat-square&logo=githubpages&logoColor=white"></a>
+    <a href="mailto:leonardoscheitz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white"></a>
+  </p>
+
+</div>
 
 ---
 
-### About
+### About me
 
-My work sits at the intersection of **software development, automation, and data**. I build Python-based workflows that reduce repetitive tasks, improve reporting processes, and connect tools used in everyday operations.
+I work across **Python automation, backend development, and data workflows**. In my day-to-day work, I create and improve processes involving browser automation, recurring reports, and operational data.
 
-Outside of work, I develop independent products under **Morven Systems** and explore backend architecture, developer tooling, and open-source software. I care about solutions that are useful, maintainable, and simple to operate.
+Beyond that, I study software engineering and build projects to deepen my understanding of code, architecture, and developer tools.
 
-**Currently focused on:** backend development, Python tooling, TypeScript, system integration, testing, and shipping my own projects.
+I care about **readable code, useful features, and solving the actual problem** — not just making something look impressive.
 
-### Selected work
+### Selected projects
 
-| Project                                                                       | Description                                                                                                                  | Status            |
-| :---------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :---------------- |
-| **[Morven CAST](https://telar.morvensystems.com)**                       | Browser-based screen-sharing project exploring real-time communication, video quality, and a streamlined viewing experience. | In development    |
-| **GLYPH**                                                               | Lightweight developer tool for diagnosing and repairing Unicode / text-encoding problems.                                    | In development    |
-| **[ContactManager](https://github.com/leonardoscheitz/ContactManager)**  | Java application for creating, listing, searching, and removing contacts.                                                    | Public repository |
-| **[Personal Portfolio](https://github.com/leonardoscheitz/myportfolio)** | Responsive personal portfolio built with HTML and CSS.                                                                       | Public repository |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GLYPH <sub>· In development</sub></h3>
+      <p>A developer tool focused on <strong>Unicode and text encoding</strong>: diagnosing broken characters, identifying potential causes, and making text-handling issues easier to understand and fix.</p>
+      <p><code>Unicode</code> <code>Encoding</code> <code>Developer tooling</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/leonardoscheitz/ContactManager">ContactManager</a></h3>
+      <p>A command-line contact management application built with Java and Maven, covering the fundamentals of data handling and CRUD operations.</p>
+      <p><code>Java</code> <code>Maven</code> <code>CRUD</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/leonardoscheitz/myportfolio">Personal Portfolio</a></h3>
+      <p>A responsive portfolio website built to present my work, technical skills, and development journey.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>Web</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Automation & reporting <sub>· Professional work</sub></h3>
+      <p>Internal workflows that reduce repetitive tasks and support reporting and data operations. The underlying systems and code are not public.</p>
+      <p><code>Python</code> <code>Playwright</code> <code>Power BI</code></p>
+    </td>
+  </tr>
+</table>
 
-**Morven Systems** — my independent software-development brand and a home for experimental tools, applications, and products.
-
-### Work & experience
-
-**Academic operations · Python Automation & BI**
-I work on operational automations and reporting workflows involving Python, browser automation, spreadsheets, and Power BI. My focus is to make recurring processes more consistent, less manual, and easier to monitor.
-
-**Learning & education**
-Software Engineering — UNIASSELVI
-Java Back-End — Entra21 (2025)
-
-### Technology stack
+### Technical stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-20232A?style=flat-square&logo=postgresql&logoColor=white)
 
-**Development & automation**
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat-square&logo=playwright&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-20232A?style=flat-square&logo=powerbi&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-20232A?style=flat-square&logo=powerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-20232A?style=flat-square&logo=cloudflare&logoColor=white)
+![Python](https://img.shields.io/badge/Python-262626?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-262626?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-262626?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-262626?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-262626?style=flat-square&logo=css&logoColor=white)
 
-### Engineering interests
+**Tools & workflow**
 
-- **Backend systems:** APIs, integrations, service design, and reliable application logic.
-- **Automation:** Python workflows, browser automation, data collection, and reporting.
-- **Developer tooling:** small utilities that solve specific technical problems.
-- **Product development:** taking an idea from prototype to something people can actually use.
+![Git](https://img.shields.io/badge/Git-262626?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-262626?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-262626?style=flat-square&logo=nodedotjs&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-262626?style=flat-square&logo=playwright&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-262626?style=flat-square&logo=powerbi&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-262626?style=flat-square&logo=powerautomate&logoColor=white)
 
-### Contact
+### What I'm working toward
 
-I'm open to connecting with developers, discussing projects, and exploring junior software-development opportunities.
+- **Backend engineering** — APIs, application logic, integrations, and maintainable systems.
+- **Python automation** — reliable workflows with better validation, monitoring, and error handling.
+- **Developer tools** — utilities that make debugging and day-to-day development easier.
 
-**[LinkedIn](https://www.linkedin.com/in/leonardo-scheitz-680756354/)** · **[GitHub](https://github.com/leonardoscheitz)** · **[Portfolio](https://leonardoscheitz.github.io/myportfolio/)** · **[Email](mailto:leonardoscheitz@gmail.com)**
+### Background
+
+- **Software Engineering** — UNIASSELVI, currently studying.
+- **Java Back-End** — Entra21, 2025.
+- **Professional experience** — operational automations and reporting workflows involving Python and Power BI.
 
 ---
 
-<sub>Built with curiosity, discipline, and an eye for the details.</sub>
+<div align="center">
+  <sub>Interested in junior software development opportunities and collaboration on meaningful projects.</sub><br>
+  <sub><a href="mailto:leonardoscheitz@gmail.com">Get in touch</a> &nbsp;·&nbsp; <a href="https://github.com/leonardoscheitz?tab=repositories">Explore repositories</a></sub>
+</div>
