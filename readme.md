@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-  <img src=".banner.png" alt="Leonardo Scheitz — abstract black and white ink waves and a stylized L" width="100%" />
+  <img src="./banner.png" alt="Leonardo Scheitz — abstract black and white ink waves and a stylized L" width="100%" />
 
   <br />
 
